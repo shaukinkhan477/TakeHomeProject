@@ -1,0 +1,38 @@
+header{
+  background-color: #e2e2e2;
+}
+#search{
+  margin-left: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+#cart{
+  margin-left: 40px;
+  width: 25px;
+  height: 25px;
+  color: gray;
+}
+
+#notifi{
+  margin-left: 20px;
+  width: 25px;
+  height: 25px;
+  color: gray;
+}
+
+.carousel-item{
+  size: 50%;
+}
+
+.badge:after{
+content:attr(value);
+font-size:12px;
+background: red;
+border-radius:50%;
+padding:3px;
+position:relative;
+left:-8px;
+top:-10px;
+opacity:0.9;
+}

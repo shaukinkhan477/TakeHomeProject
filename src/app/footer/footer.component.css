@@ -1,0 +1,47 @@
+.home{
+  color: gray;
+  width: 30px;
+  height: 30px;
+}
+
+.home1{
+  color: green;
+  width: 30px;
+  height: 30px;
+}
+
+.bnav{
+  height: 100px;
+}
+
+.ficons{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 8px;
+}
+
+.ficontext{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+
+.text
+{
+  margin-left: 18px;
+}
+
+.fa-solid
+{
+  color: gray;
+}
+
+.fa-house{
+  color: green;
+}
+
+.home{
+  color: black;
+  font-weight: 600;
+}

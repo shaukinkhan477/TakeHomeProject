@@ -1,0 +1,140 @@
+.back
+{
+ left: 0%;
+ position: absolute;
+ margin-top: 10px;
+ color: gray;
+}
+
+.icons
+{
+  color: gray;
+}
+
+.badge:after{
+content:attr(value);
+font-size:12px;
+background: red;
+border-radius:50%;
+padding:3px;
+position:relative;
+left:-8px;
+top:-10px;
+opacity:0.9;
+}
+
+.nav
+{
+  background-color: #e2e2e2;
+  height: 60px;
+}
+
+
+
+.img1{
+  background-color: lightgray;
+  margin-top: 8px;
+  margin-left: 10px;
+  border-radius: 5px;
+  width:370px;
+  height:390px;
+}
+
+
+.simg{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.image2{
+   display: flex;
+   margin-top: 8px;
+}
+
+.img2{
+  width: 60px;
+  height: 60px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+h3{
+  font-weight: 800;
+  margin-left: 12px;
+  margin-top: 8px;
+}
+
+h6{
+  color: gray;
+}
+
+.section1{
+  display: flex;
+  justify-content: space-around;
+  margin-right: 2px;
+}
+
+.about{
+  color: green;
+  font-weight: 600;
+}
+
+.review{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+a{
+  text-decoration: none;
+  color: gray;
+}
+
+.progress{
+  height: 3px;
+}
+
+.other{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+
+.desc{
+  margin-left: 15px;
+}
+
+
+.sec{
+ color: black;
+ font-weight: 600;
+}
+
+.footer{
+  height: 100px;
+}
+
+.price{
+  color: green;
+  font-weight: 600;
+}
+
+.rs{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.bags{
+ width: 100px;
+ height: 80px;
+ margin-left: 8px;
+ margin-top: 8px;
+}
+
+.buy{
+  width: 180px;
+  height: 80px;
+  margin-top: 8px;
+}
+
